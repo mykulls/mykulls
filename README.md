@@ -1,4 +1,4 @@
-### Hello! I'm a Computer Science undergraduate student at UCLA with interests in Digital Media, Design, and AI.
+### Hello! I'm a Computer Science graduate student at UCLA with interests in Digital Media, Design, and AI.
 
 <!--
 **mykulls/mykulls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
